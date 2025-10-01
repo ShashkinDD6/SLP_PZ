@@ -1,0 +1,23 @@
+{
+  "name": "slp_pz",
+  "version": "1.0.0",
+  "description": "Короткий опис на українській Репозиторій з курсу Спеціальні мови програмування (TypeScript)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ShashkinDD6/SLP_PZ.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ShashkinDD6/SLP_PZ/issues"
+  },
+  "homepage": "https://github.com/ShashkinDD6/SLP_PZ#readme",
+  "devDependencies": {
+    "typescript": "^5.9.3"
+  }
+}
